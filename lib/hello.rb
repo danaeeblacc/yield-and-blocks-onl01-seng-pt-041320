@@ -1,4 +1,4 @@
-ddef hello_t(array)
+def hello_t(array)
   if block_given?
     i = 0
  
